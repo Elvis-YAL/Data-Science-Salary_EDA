@@ -1,9 +1,14 @@
-# Data Science Salary EDA
+# Data Science Job Salary EDA : Project Overview
+* Estimated Data Science salaries to help new data science negotiate their income.  
+* Identified key factors influencing salaries, namely job titles and years of experience.  
+* Optimized the Catboost model with hyperparameter tuning to achieve the final desired outcomes.  
+
+## Let's get started!
 I will conduct a thorough Exploratory Data Analysis (EDA) on the dataset, and based on various scenarios, I will contemplate different approaches. Ultimately, I plan to utilize CatBoost for salary prediction.  
 
 **In the explanations below, I will provide brief descriptions of some content. For more detailed information, please feel free to click on the notebook.** 
-## Let's take a look at our dataset  
-**Data Science Job Salaries Dataset contains 11 columns, each are:**
+### Let's take a look at our dataset :  
+Data Science Job Salaries Dataset contains 11 columns, each are:
 
 1. **work_year:** The year the salary was paid.  
 2. **experience_level:** The experience level in the job during the year  
